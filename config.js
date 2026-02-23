@@ -1,9 +1,9 @@
-global.owner = ["967733390815"]
-global.botname = "MARWAN-SOFT"
-global.ownername = "MARWAN-SOFT"
-global.numberbot = "967733390815"
+global.owner = ['967711262101']
+global.botname = 'MARWAN - SOFT'
+global.ownername = 'MARWAN - SOFT'
+global.numberbot = '967711262101'
 
-global.packname = "MARWAN-SOFT"
-global.author = "© MARWAN-SOFT"
+global.packname = 'MARWAN - SOFT'
+global.author = '© MARWAN - SOFT'
 
-global.prefix = "."
+global.prefix = '.'
