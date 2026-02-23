@@ -14,18 +14,18 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '967733390815',
- pairingNumber : '967733390815',
+ nomerbot : '967711262101',
+ pairingNumber : '967711262101',
  figlet: 'silanalite', // create a start console display
  nomorwa : '967733390815',
- nameown : 'MARWANSOFT',
- nomerown : '967733390815',
+ nameown : 'MARWAN-SOFT',
+ nomerown : '967711262101',
  packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ author : 'MARWAN AI',
+ namebot : '乂 MARWAN AI',
+ wm : 'MARWAN LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : 'MARWAN LITE',
  jid: '@s.whatsapp.net'
 }
 
